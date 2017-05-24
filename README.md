@@ -5,3 +5,4 @@
 ---
 
 - [iTerm2 Configuration](https://github.com/VeinGuo/MyProfiles/wiki/iTerm2-Configuration)
+- [Apps](https://github.com/VeinGuo/MyProfiles/wiki/Apps)
